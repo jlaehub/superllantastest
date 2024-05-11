@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pruebaSuperllantas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2c93170c165068a9a5e3a323de6ec6f3eedb5f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("pruebaSuperllantas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pruebaSuperllantas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

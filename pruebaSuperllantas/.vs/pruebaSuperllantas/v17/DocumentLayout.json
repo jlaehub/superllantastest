@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\cruds\\branchcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:cruds\\branchcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\cruds\\companycrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:cruds\\companycrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\cruds\\usercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:cruds\\usercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\cruds\\salecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:cruds\\salecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\cruds\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:cruds\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\cruds\\customercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:cruds\\customercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\list\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:list\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +59,16 @@
       "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|c:\\users\\jlae2\\documents\\trabajos\\superllantas\\pruebasuperllantas\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEC258-4443-4DBF-95D3-B7E71524080F}|pruebaSuperllantas.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +78,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userCrud.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\userCrud.cs",
+              "RelativeDocumentMoniker": "Cruds\\userCrud.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\userCrud.cs",
+              "RelativeToolTip": "Cruds\\userCrud.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:33:21.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "saleCrud.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\saleCrud.cs",
+              "RelativeDocumentMoniker": "Cruds\\saleCrud.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\saleCrud.cs",
+              "RelativeToolTip": "Cruds\\saleCrud.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:29:45.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "productCrud.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\productCrud.cs",
+              "RelativeDocumentMoniker": "Cruds\\productCrud.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\productCrud.cs",
+              "RelativeToolTip": "Cruds\\productCrud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:26:25.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "customerCrud.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\customerCrud.cs",
+              "RelativeDocumentMoniker": "Cruds\\customerCrud.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\customerCrud.cs",
+              "RelativeToolTip": "Cruds\\customerCrud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:24:35.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "companyCrud.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\companyCrud.cs",
+              "RelativeDocumentMoniker": "Cruds\\companyCrud.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\companyCrud.cs",
+              "RelativeToolTip": "Cruds\\companyCrud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:21:34.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "branchCrud.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\branchCrud.cs",
+              "RelativeDocumentMoniker": "Cruds\\branchCrud.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Cruds\\branchCrud.cs",
+              "RelativeToolTip": "Cruds\\branchCrud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T01:31:59.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T01:10:47.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T02:44:24.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T02:33:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "genericList.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\List\\genericList.cs",
+              "RelativeDocumentMoniker": "List\\genericList.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\List\\genericList.cs",
+              "RelativeToolTip": "List\\genericList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T01:13:02.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Branch.cs",
+              "RelativeToolTip": "Models\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:54:28.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T01:13:51.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -55,20 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sale.cs",
-              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Sale.cs",
-              "RelativeDocumentMoniker": "Models\\Sale.cs",
-              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Sale.cs",
-              "RelativeToolTip": "Models\\Sale.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T02:54:56.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -81,33 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T02:54:39.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Branch.cs",
-              "RelativeDocumentMoniker": "Models\\Branch.cs",
-              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Branch.cs",
-              "RelativeToolTip": "Models\\Branch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T02:54:28.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Company.cs",
               "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Company.cs",
               "RelativeDocumentMoniker": "Models\\Company.cs",
@@ -120,15 +277,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-09T02:33:34.556Z",
+              "DocumentIndex": 15,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:54:56.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\jlae2\\Documents\\Trabajos\\Superllantas\\pruebaSuperllantas\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:54:39.786Z",
               "EditorCaption": ""
             },
             {
